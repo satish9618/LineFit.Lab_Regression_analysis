@@ -5,6 +5,8 @@ LineFitLab is a powerful, user-friendly web application built with **Streamlit**
 
 This project showcases advanced data science techniques, including feature engineering, outlier detection, multicollinearity handling, and model evaluation, all wrapped in a sleek, professional interface. It is designed to streamline the machine learning workflow while ensuring transparency and interpretability of the modeling process. 🌟
 
+##Note: You can check the demonstation video inn the repo for more clarity
+
 ## Features
 
 ### 1. Data Ingestion and Preprocessing 📂
