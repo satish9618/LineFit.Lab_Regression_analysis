@@ -16,7 +16,7 @@ from scipy.spatial.distance import mahalanobis
 import statsmodels.api as sm
 
 st.set_page_config(layout="wide")
-st.title("LineFitLab: Streamlined Linear Regression Builder")
+st.title("LineFitLab: Arena For Linear Regression")
 
 # Initialize session state
 if 'section' not in st.session_state:
